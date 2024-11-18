@@ -1,4 +1,4 @@
-# DGA-LSTM based on deep learning
+# DGA Malicious Domain Name Detection based on Deep Learning Model LSTM
 ## 前言
 
 Domain Generation Algorithm (DGA) 是一种由网络犯罪分子设计的技术，用于生成大量的域名，这些域名通常被用作命令与控制服务器（C2服务器）的地址。DGA的主要目的是为了逃避网络安全防护措施，尤其是防止安全机构或执法部门通过静态列表阻止或关闭恶意软件的通信通道。
